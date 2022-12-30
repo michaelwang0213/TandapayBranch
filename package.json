@@ -11,7 +11,7 @@
   "dependencies": {
     "dotenv": "^8.0.0",
     "ganache-cli": "^6.4.3",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "solc": "^0.4.21",
     "truffle-assertions": "^0.9.1",
     "truffle-hdwallet-provider": "0.0.3",
